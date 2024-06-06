@@ -1238,3 +1238,17 @@ Make sure 'Minimal_Default_C' has been compiled for  Get intArray
 [2024.06.06-20.38.13:191][436]AssetCheck: New page: Asset Save: multiple assets
 [2024.06.06-20.38.13:191][436]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.06.06-20.38.13:191][436]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-20.39.17:417][ 73]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.06-20.39.17:449][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.06.06-20.39.18:050][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.06.06-20.39.18:063][135]LogSavePackage: Moving '../../../../../uni/daneshgah/array1/array/Saved/Minimal_DefaultCED593F24965BF82D18AD5BFD789D599.tmp' to '../../../../../uni/daneshgah/array1/array/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-20.39.18:065][135]LogFileHelpers: Saving map 'Minimal_Default' took 0.034
+[2024.06.06-20.39.18:080][135]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.06.06-20.39.18:080][135]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-20.39.19:335][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.06.06-20.39.19:348][275]LogSavePackage: Moving '../../../../../uni/daneshgah/array1/array/Saved/Minimal_Default6FA1492F47B159924C37D7A10D1FBFEA.tmp' to '../../../../../uni/daneshgah/array1/array/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-20.39.19:352][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../uni/daneshgah/array1/array/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.06.06-20.39.19:381][275]LogSavePackage: Moving '../../../../../uni/daneshgah/array1/array/Saved/Minimal_Default_BuiltDataECA4160A4EB08368A0A7CE9804D08968.tmp' to '../../../../../uni/daneshgah/array1/array/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.06-20.39.19:392][275]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.06-20.39.19:392][275]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.06-20.39.19:392][275]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
